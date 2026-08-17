@@ -58,6 +58,7 @@ Credit utilization
 Employment status
 Customer locations
 Credit-related factors
+
 💡 Key Learning
 
 This project helped me understand how raw customer data can be organized, analyzed, and transformed into a visual dashboard using Excel.
@@ -72,8 +73,7 @@ SQL
 Power BI
 Python
 More advanced statistical analysis
-📂 Project Files
-Credit Risk & Loan Dashboard.xlsx - Excel dataset, analysis, pivot tables, and dashboard.
+
 👤 About the Project
 
 This project is part of my journey into Data Analytics and was created as a hands-on exercise to strengthen my Excel and analytical skills.
